@@ -1,4 +1,4 @@
-# Awesome*Code
+# Awesome Code
 * Links to a curated list of awesome implementations of neural network models.（tensorflow,torch,theano,keras,...）
 * Mainly Question Answering,Machine comprehension,Sentiment Analysis...
 * Contributions are welcomed.
