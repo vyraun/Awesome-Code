@@ -12,12 +12,14 @@
 * [Matlab](#matlab)
 * [Deep Reinforcement Learning](#Deep Reinforcement Learning)
 
-<a name="python" />
+
 ##Python
-* [context2vec: Learning Generic Context Embedding with Bidirectional LSTM](https://github.com/orenmel/context2vec)
+
+* [context2vec: Learning Generic Context Embedding with Bidirectional LSTM] (https://github.com/orenmel/context2vec)
 
 <a name="tensorflow" />
 ##Tensorflow
+
 * [Neural Turing Machine(NMT)](https://github.com/carpedm20/NTM*tensorflow).Taehoon Kim’s(Tensorflow)
 * [Neural Turing Machine(NMT)](https://github.com/kaishengtai/torch*ntm). Kai Sheng Tai’s (Torch)
 * [Neural Turing Machine(NMT)](https://github.com/shawntan/neural*turing*machines)Shawn Tan’s (Thenao)
