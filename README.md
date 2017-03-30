@@ -3,7 +3,7 @@
 * Mainly Question Answering,Machine comprehension,Sentiment Analysis...
 * Contributions are welcomed.
 
-##Table of Contents
+# Table of Contents
 * [Python](#python)
 * [Tensorflow](#tensorflow)
 * [Theano](#theano)
@@ -13,12 +13,12 @@
 * [Deep Reinforcement Learning](#Deep Reinforcement Learning)
 
 
-##Python
+# Python
 
 * [context2vec: Learning Generic Context Embedding with Bidirectional LSTM] (https://github.com/orenmel/context2vec)
 
 <a name="tensorflow" />
-##Tensorflow
+# Tensorflow
 
 * [Neural Turing Machine(NMT)](https://github.com/carpedm20/NTM*tensorflow).Taehoon Kim’s(Tensorflow)
 * [Neural Turing Machine(NMT)](https://github.com/kaishengtai/torch*ntm). Kai Sheng Tai’s (Torch)
@@ -43,8 +43,8 @@
 * [Key*Value Memory Networks for Directly Reading Documents](https://github.com/siyuanzhao/key*value*memory*networks)
 * [A statistical natural language generator for spoken dialogue systems(SIGDIAL 2016 short paper)](https://github.com/UFAL*DSG/tgen)
 
-<a name="theano" />
-##Theano
+
+# Theano
 * [ End*To*End Memory Networks, formerly known as Weakly Supervised Memory Networks](https://github.com/npow/MemN2N)
 * [Memory Networks](https://github.com/npow/MemNN)
 * [Dynamic Memory Networks](https://github.com/swstarlab/DynamicMemoryNetworks)
@@ -65,12 +65,10 @@
 * [Dependency*based Convolutional Neural Networks for Sentence Embedding](https://github.com/cosmmb/DCNN)
 * [Siamese*LSTM * Siamese Recurrent Neural network with LSTM for evaluating semantic similarity between sentences.（AAAI2016））](https://github.com/aditya1503/Siamese*LSTM)
 
-<a name="keras"/>
-##Keras
+# Keras
 * [Learning text representation using recurrent convolutional neural network with highway layers](https://github.com/wenying45/deep_learning_tutorial/tree/master/rcnn*hw)
 
-<a name="torch"/>
-##Torch
+# Torch
 * [Sequence*to*sequence model with LSTM encoder/decoders and attention](https://github.com/harvardnlp/seq2seq*attn)
 * [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://github.com/rajarshd/ChainsOfReasoning/tree/master/model)
 * [Recurrent Memory Network for Language Modeling](https://github.com/ketranm/RMN)
@@ -80,18 +78,13 @@
 * [Improved Semantic Representations From Tree*Structured Long Short*Term Memory Networks(Tree*LSTM)](https://github.com/stanfordnlp/treelstm)
 * [A Neural Attention Model for Abstractive Summarization.](https://github.com/facebook/NAMAS)
 
-<a name="matlab">
-##Matlab
+# Matlab
 * [When Are Tree Structures Necessary for Deep Learning of Representations](https://github.com/jiweil/Sequence*Models*on*Stanford*Treebank)
  
- 
-<A name="Deep Reinforcement Learning">
-##Deep Reinforcement Learning
+# Deep Reinforcement Learning
 
 
-##===========================================
-<A name="mldptt">
-##machine learning and deep learning tutorials, articles and other resources
+# Machine learning and deep learning tutorials, articles and other resources
 * [machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine*Learning*Tutorials)
 * [Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE](https://github.com/thunlp/KG2E)
 * [【论文:深度学习NLP的可视化理解】《Visualizing and Understanding Neural Models in NLP》J Li, X Chen, E Hovy, D Jurafsky (2015) ](https://github.com/jiweil/Visualizing*and*Understanding*Neural*Models*in*NLP)
@@ -102,7 +95,6 @@
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome*rl)
 
 
-<A name="people">
-##People
+# People
 *[carpedm20](https://github.com/carpedm20)
 
