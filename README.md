@@ -15,9 +15,8 @@
 
 # Python
 
-* [context2vec: Learning Generic Context Embedding with Bidirectional LSTM] (https://github.com/orenmel/context2vec)
+* [context2vec: Learning Generic Context Embedding with Bidirectional LSTM](https://github.com/orenmel/context2vec)
 
-<a name="tensorflow" />
 # Tensorflow
 
 * [Neural Turing Machine(NMT)](https://github.com/carpedm20/NTM*tensorflow).Taehoon Kim’s(Tensorflow)
